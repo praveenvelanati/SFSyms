@@ -1,3 +1,3 @@
-struct PkSymbols {
-    var text = "Hello, World!"
+public struct PkSymbols {
+  public var text = "Hello, World!"
 }
