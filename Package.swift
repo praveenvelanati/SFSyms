@@ -22,15 +22,19 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .target(
             name: "Tar1A",
-            dependencies: []),
+            path: "Sources",
+            sources: ["Tar1"]),
         .target(
             name: "Tar1B",
-            dependencies: []),
+            path: "Sources",
+            sources: ["Tar1"]),
         .target(
             name: "Tar2A",
-            dependencies: []),
+            path: "Sources",
+            sources: ["Tar2"]),
         .target(
             name: "Tar2B",
-            dependencies: [])
+            path: "Sources",
+            sources: ["Tar2"])
     ]
 )
