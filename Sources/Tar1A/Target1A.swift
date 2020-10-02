@@ -1,3 +1,3 @@
-public struct Target1 {
-  public static var name = "Target 1"
+public struct Target1A {
+  public static var name = "Target 1A"
 }

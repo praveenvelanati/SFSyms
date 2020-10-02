@@ -6,6 +6,6 @@
 //
 
 import Foundation
-public struct Target2 {
-    public static var name = "Target 2"
+public struct Target2A {
+    public static var name = "Target 2A"
 }

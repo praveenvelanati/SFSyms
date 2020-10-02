@@ -6,3 +6,6 @@
 //
 
 import Foundation
+public struct Target2B {
+    public static var name = "Target 2B"
+}
