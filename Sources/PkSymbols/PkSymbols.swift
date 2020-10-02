@@ -1,3 +1,3 @@
 public struct PkSymbols {
-  public var text = "Hello, World!"
+  public static var text = "Hello, World!"
 }
