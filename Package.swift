@@ -25,9 +25,6 @@ let package = Package(
             dependencies: []),
         .target(
             name: "Tar2",
-            dependencies: []),
-        .testTarget(
-            name: "PkSymbolsTests",
-            dependencies: ["PkSymbols"]),
+            dependencies: [])
     ]
 )
