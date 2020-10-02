@@ -6,6 +6,6 @@
 //
 
 import Foundation
-public struct ATarg {
-    public static var name = "Target A"
+public struct Target2 {
+    public static var name = "Target 2"
 }
